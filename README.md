@@ -100,20 +100,15 @@ Profile Keywords: Full Stack Developer Indonesia, React Developer, FinTech Devel
 
 ## 📈 GITHUB PERFORMANCE - Professional Developer Statistics
 
-<div align="center">
+​<div align="center">
 
-<!-- Enhanced GitHub stats with better descriptions -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeViksry&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=1a1b27&hide_border=true&include_all_commits=true&count_private=true" alt="MeViksry GitHub Statistics - Full Stack Developer Indonesia"/>
+​<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeViksry&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="MeViksry GitHub Statistics - Full Stack Developer Indonesia"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeViksry&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=1a1b27&hide_border=true&langs_count=8" alt="MeViksry Most Used Programming Languages - React JavaScript Python PHP"/>
+​<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeViksry&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=1a1b27&hide_border=true&langs_count=6" alt="MeViksry Most Used Programming Languages - React JavaScript Python PHP"/>
 
-<!-- GitHub Activity Graph -->
-[![Viksry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeViksry&theme=github-compact&hide_border=true&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+​<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeViksry&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=ffffff" alt="MeViksry GitHub Streak Stats"/>
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeViksry&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=ffffff" alt="MeViksry GitHub Streak Stats"/>
-
-</div>
+​</div>
 
 ---
 
