@@ -132,9 +132,9 @@ Profile Keywords: Full Stack Developer Indonesia, React Developer, FinTech Devel
 <!-- Enhanced social badges with keywords -->
 [![Email](https://img.shields.io/badge/%20Professional%20Email-hello@viksry.my.id-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@viksry.my.id)
 [![Instagram](https://img.shields.io/badge/%20Instagram-@meviksry-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meviksry)
-[![TikTok](https://img.shields.io/badge/%20TikTok-@viksry-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@viksry)
+[![TikTok](https://img.shields.io/badge/%20TikTok-@meviksry-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@meviksry)
 [![Threads](https://img.shields.io/badge/%20Threads-@meviksry-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@meviksry)
-[![Facebook](https://img.shields.io/badge/%20Facebook-MeViksry-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19aKzAtBeZ/)
+[![Facebook](https://img.shields.io/badge/%20Facebook-MeViksry-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MeViksry)
 
 <!-- Professional Contact Info -->
 <p>
