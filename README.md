@@ -29,7 +29,7 @@ Profile Keywords: Full Stack Developer Indonesia, React Developer, FinTech Devel
 
 </div>
 
-<img align="center" src="gif3.gif" alt="Vikri Ahpad Tantowi - Full Stack Developer Animation">
+<img align="center" src="gif3.gif" alt="Vikri Ahpad Tantowi">
 
 <!-- Enhanced JSON with SEO-friendly content -->
 ```json
