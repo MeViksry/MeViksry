@@ -25,7 +25,7 @@ Profile Keywords: Full Stack Developer Indonesia, React Developer, FinTech Devel
 ---
 <div align="center">
 
-## 🎯 ABOUT ME - Full Stack Developer & FinTech Expert
+## 🎯 ABOUT ME
 
 </div>
 
